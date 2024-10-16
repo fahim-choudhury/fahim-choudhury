@@ -13,7 +13,7 @@
   
 
 ### Glad to see you here!  
-I have over nine years of experience developing Android apps for various industries such as audio streaming, messaging, healthcare, e-commerce, ride-sharing, and location-based services. 
+I have around 10 years of experience developing Android apps for various industries such as audio streaming, messaging, healthcare, e-commerce, ride-sharing, and location-based services. 
 
 I am passionate about writing clean and maintainable code while applying best practices to application architecture. Additionally, I enjoy mentoring junior developers and actively contributing to the recruitment and appraisal process to help grow my team.
 

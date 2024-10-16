@@ -17,7 +17,7 @@ I have around 10 years of experience developing Android apps for various industr
 
 I am passionate about writing clean and maintainable code while applying best practices to application architecture. Additionally, I enjoy mentoring junior developers and actively contributing to the recruitment and appraisal process to help grow my team.
 
-As a servant leader, I'm committed to creating a positive team culture and helping everyone on the team succeed.    
+As a servant leader, I'm committed to creating a positive team culture and helping everyone in the team succeed.    
 <br/>  
 
 ## Languages and Tools  
